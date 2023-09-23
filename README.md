@@ -14,8 +14,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -77,32 +75,10 @@ You can view a live demo of the project [here](https://trip-planner03.vercel.app
 
 ---
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-
-4. Push to the branch: `git push origin feature/your-feature-name`.
-
-5. Create a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
-- [Add any other libraries or resources you used here]
+- [Love Babbar]
 
 ```
 
