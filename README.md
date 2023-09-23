@@ -36,7 +36,6 @@ You can view a live demo of the project [here](https://trip-planner03.vercel.app
 - View information about seven different cities.
 - Add cities to your trip itinerary.
 - View and manage your trip plans.
-- [Add more features here]
 
 ---
 
@@ -71,7 +70,7 @@ You can view a live demo of the project [here](https://trip-planner03.vercel.app
 
 2. Open your web browser and visit `http://localhost:3000` to use the application.
 
-3. [Add usage instructions here]
+3. You are good to go
 
 ---
 
