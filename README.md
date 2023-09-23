@@ -1,6 +1,3 @@
-Creating a README.md file for your React trip planner project is a great idea to provide documentation and information about your project to potential users or collaborators. Here's a basic template for your README.md file:
-
-```markdown
 # React Trip Planner
 
 ![Project Image](project-image-url-if-available.jpg)
@@ -50,7 +47,6 @@ You can view a live demo of the project [here](link-to-demo-if-available).
 
    ```bash
    git clone https://github.com/your-username/react-trip-planner.git
-   ```
 
 2. Change to the project directory:
 
