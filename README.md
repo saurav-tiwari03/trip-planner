@@ -1,6 +1,7 @@
 # React Trip Planner
 
-![Project Image](project-image-url-if-available.jpg)
+<img width="946" alt="image" src="https://github.com/saurav-tiwari03/trip-planner/assets/116860218/ab55aeae-7c78-4877-b6ae-f2349fa6a958">
+
 
 > A basic trip planner application built using React.
 
@@ -26,7 +27,7 @@ The React Trip Planner is a simple web application that allows users to plan tri
 
 ## Demo
 
-You can view a live demo of the project [here](link-to-demo-if-available).
+You can view a live demo of the project [here](https://trip-planner03.vercel.app/).
 
 ![Demo GIF](demo-gif-url-if-available.gif)
 
